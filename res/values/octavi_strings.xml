@@ -179,5 +179,10 @@
 
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    
+     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Unlock with fingerprint when the screen is off</string>
+    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
+    
 
 </resources>
